@@ -1,0 +1,15 @@
+{
+  "name": "douyin-favorites-brief-showcase",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Public portfolio: turn saved short videos into a daily brief and executable knowledge cards.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "demo": "sh demo/run-demo.sh",
+    "check": "node --check scripts/lib.mjs && node --check scripts/render.mjs"
+  }
+}
