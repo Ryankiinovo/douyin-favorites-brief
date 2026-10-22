@@ -73,7 +73,7 @@
 
 ## 30 秒运行 demo
 
-不需要登录、不需要网络、不需要安装依赖：
+不需要登录、不需要网络、不需要安装依赖；只需要 Node.js >= 20.11，不用 `npm install`：
 
 ```bash
 git clone https://github.com/Ryankiinovo/douyin-favorites-brief-showcase.git

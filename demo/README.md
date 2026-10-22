@@ -2,7 +2,7 @@
 
 这个 demo 只跑渲染层：读合成 `manifest.json` 和 `analysis.json`，生成 Obsidian 源笔记、知识卡、日报和索引。
 
-不登录、不访问网络、不调用模型、不需要安装依赖。
+不登录、不访问网络、不调用模型、不需要安装依赖；只需要 Node.js >= 20.11，不用 `npm install`。
 
 ## 运行
 
