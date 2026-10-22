@@ -4,3 +4,4 @@ demo/out/
 state/
 logs/
 config.json
+!demo/config.json

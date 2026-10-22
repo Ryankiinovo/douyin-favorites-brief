@@ -1,0 +1,11 @@
+{
+  "timezone": "Asia/Shanghai",
+  "rawDir": "demo/fixtures",
+  "analysisFile": "demo/fixtures/analysis.json",
+  "vault": "demo/out",
+  "outputDir": "抖音收藏",
+  "stateDir": "demo/out/state",
+  "lastDigest": "demo/out/last_digest.txt",
+  "processedFile": "demo/out/processed.json",
+  "retentionDays": 0
+}
