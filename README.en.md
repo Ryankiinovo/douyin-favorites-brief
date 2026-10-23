@@ -39,8 +39,8 @@ Saving is cheap; revisiting is expensive. A saved video creates the illusion of 
 No login, network, or npm dependencies required; Node.js >= 20.11 only (no `npm install`):
 
 ```bash
-git clone https://github.com/Ryankiinovo/douyin-favorites-brief-showcase.git
-cd douyin-favorites-brief-showcase
+git clone https://github.com/Ryankiinovo/douyin-favorites-brief.git
+cd douyin-favorites-brief
 npm run demo
 ```
 
