@@ -49,7 +49,7 @@
 - 输出：知识卡、每日日报、索引、通知摘要；
 - 失败：登录失效、单条下载失败、抽帧超时、模型漏条、渲染校验失败。
 
-完整产品定义见 [docs/product.md](docs/product.md)。
+完整产品定义见 [docs/product.md](docs/product.md)；想自己跑一遍看 [docs/operations.md](docs/operations.md)。
 
 ### 2. 实现
 
@@ -149,7 +149,8 @@ flowchart LR
 │   ├── architecture.md     # 完整系统与公开层
 │   ├── case-study.md       # 作品集叙事
 │   ├── decisions.md        # 关键决策
-│   └── privacy.md          # 公开边界与威胁模型
+│   ├── privacy.md          # 公开边界与威胁模型
+│   └── operations.md       # 运行手册：环境、配置、登录、日常运行、故障处理
 ├── prompts/analyze.md      # 结构化提炼提示词
 ├── examples/               # 合成示例
 ├── demo/                   # 无登录、无网络的渲染 demo
